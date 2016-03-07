@@ -14,7 +14,8 @@ This project will be a work-in-progress, as I'm planning to improve this and add
 - [Iris Bune](https://github.com/irisbune)
 
 ### Info
-Four weeks into our [Codaisseur's](https://github.com/Codaisseur) Web Dev Bootcamp, we had to build a [Rails api](https://github.com/irisbune/Check_projectmanager-back) (JSON) and use ReactJS as the front-end.
+Four weeks into our [Codaisseur's](https://github.com/Codaisseur) Web Dev Bootcamp, we had to build a
+[Rails api](https://github.com/irisbune/Check_projectmanager-back) (JSON) and use ReactJS as the front-end.
 
 The front now includes a list of projects, links to individual project pages with a list of related tasks.
 Via the task form, new tasks can be added to each project. Tasks can be toggled complete.
